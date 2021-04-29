@@ -17,7 +17,7 @@ if (isset($_COOKIE['username'])){
 	// tampilkan nama user, baca dari cookie
 	echo "<p>Hallo selamat datang ".$_COOKIE['username']."</p>";
 	// tampilkan jumlah kunjungan saat ini = jumlah visit sebelumnya + 1
-	echo "<p>Ini kunjungan Anda yang ke-".($_COOKIE['visits']+1)."</p>";
+	echo "<p>Ini kunjungan Anda yang ke-".($_COOKIE['visits']++)."</p>";
 	// tampilkan datetime kunjungan sebelumnya, baca dari cookie
 	echo "<p>Kunjungan Anda sebelumnya adalah pada tanggal ".$_COOKIE['lastvisit']."</p>";
 
