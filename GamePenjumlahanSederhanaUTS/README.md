@@ -24,3 +24,4 @@ Terdapat tombol 'main lagi' dan 'logout'.
 Tombol 'main lagi' merupakan tombol untuk bermain game lagi, jika diklik akan kembali ke tampilan permainan.
 Tombol 'logout' merupakan tombol untuk keluar dari permainan dan kembali ke halaman login.
 
+Link untuk mencoba game ini : http://gamepenjumlahan.42web.io/ 
