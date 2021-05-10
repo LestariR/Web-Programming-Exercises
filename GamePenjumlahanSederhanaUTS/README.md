@@ -1,4 +1,4 @@
-APLIKASI GAME PENJUMLAHAN SEDERHANA
+# UTS PEMROGRAMAN WEB - MEMBUAT APLIKASI GAME PENJUMLAHAN SEDERHANA
 
 Aplikasi ini adalah aplikasi game penjumlahan sederhana antara 2 buah bilangan antara 0-20 yang dirandom. 
 
@@ -23,3 +23,4 @@ Menampilkan score akhir pemain dan tabel hall of fime yang memunculkan 10 player
 Terdapat tombol 'main lagi' dan 'logout'.
 Tombol 'main lagi' merupakan tombol untuk bermain game lagi, jika diklik akan kembali ke tampilan permainan.
 Tombol 'logout' merupakan tombol untuk keluar dari permainan dan kembali ke halaman login.
+
