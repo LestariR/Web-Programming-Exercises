@@ -1,0 +1,68 @@
+body{
+	font-family: sans-serif;
+	background: #D0E6A5;
+	font-size: 18px;
+}
+
+h1 {
+	text-align: center;
+}
+button{
+	background: #FAB97B;
+	border-radius: 7px;
+	border:1px solid #FFDD94;
+	height: 30px;
+	font-size: 18px;
+}
+.wrapper {
+	margin: auto;
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	height: 300px;
+	text-align: center;
+}
+
+.box{
+	background: #FFDD94;
+	height: 200px;
+	width: 400px;
+	border:1px solid #FFDD94;
+	margin: auto;
+	border-radius: 6px;
+}
+.h2{
+	text-align: center;
+}
+.submit {
+	background: #FAB97B;
+	border-radius: 7px;
+	border:1px solid #FFDD94;
+	width: 150px;
+	height: 30px;
+	font-size: 18px;
+}
+.input {
+	background: white;
+	border:1px solid #FAB97B;
+	height: 30px;
+	font-size: 18px;
+}
+.jawab {
+	background: white;
+	border:1px solid #FAB97B;
+	height: 30px;
+	width: 50px;
+	font-size: 18px;
+}
+.gameover {
+	margin: auto;
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	text-align: center;
+}
